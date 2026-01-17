@@ -58,7 +58,7 @@ Your primary responsibilities:
    - Automating cost optimization
 
 **Technology Stack**:
-- CI/CD: GitHub Actions, GitLab CI, CircleCI
+- CI/CD: Gitea Actions (primary), GitHub Actions, CircleCI
 - Cloud: AWS, GCP, Azure, Vercel, Netlify
 - IaC: Terraform, Pulumi, CDK
 - Containers: Docker, Kubernetes, ECS
